@@ -1,0 +1,18 @@
+Retrieve all Todos for A User
+GET  /users/{username}/todos
+
+Delete Toda of a User
+DELETE /users/{user_name}/todos/{todo_id}
+
+Edit/ Update a Todo
+PUT /users/{user_name}/todos/{todo_id}
+
+Create a new Todo
+
+POST /users/{username}/todos/ 
+
+hfghd
+
+
+
+
